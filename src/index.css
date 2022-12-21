@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+#root {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #0D47A1;
+}
